@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db6fd275-90dd-4d44-b118-e0f95904eabd" name="Changes" comment="">
+    <list default="true" id="db6fd275-90dd-4d44-b118-e0f95904eabd" name="Changes" comment="Completion of first Java homework">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +82,23 @@
       <updated>1674224522094</updated>
       <workItem from="1674224523341" duration="2348000" />
       <workItem from="1674606678062" duration="7800000" />
-      <workItem from="1674760262733" duration="705000" />
+      <workItem from="1674760262733" duration="1933000" />
     </task>
+    <task id="LOCAL-00001" summary="Completion of first Java homework">
+      <created>1674768509556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674768509556</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completion of first Java homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completion of first Java homework" />
   </component>
 </project>
